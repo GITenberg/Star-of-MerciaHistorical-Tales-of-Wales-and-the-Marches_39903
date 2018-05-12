@@ -1,0 +1,36 @@
+_repo: Star-of-MerciaHistorical-Tales-of-Wales-and-the-Marches_39903
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Devereux, Blanche
+    gutenberg_agent_id: '40291'
+    url: http://www.gutenberg.org/2009/agents/40291
+description: ''
+gutenberg_issued: '2012-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39903'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Wales -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Historical fiction'
+tableOfContents: Introduction -- Gwrtheyrn the Drunkard -- Dewi Sant -- Star of Mercia
+  -- Earl Sweyn the Nithing -- Edith's Well -- Richard the Scrob.
+title: 'Star of Mercia: Historical Tales of Wales and the Marches'
+url: http://www.gutenberg.org/ebooks/39903
